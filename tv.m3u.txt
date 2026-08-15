@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT‑INF:-1 tvg‑name="CCTV‑1" tvg‑logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CCTV‑1_Logo.svg/1200px‑CCTV‑1_Logo.svg.png",CCTV‑1综合
+http://39.135.119.126:8080/hls/cctv1.m3u8
+#EXT‑INF:-1 tvg‑name="CCTV‑2" tvg‑logo="",CCTV‑2财经
+http://39.135.119.126:8080/hls/cctv2.m3u8
+#EXT‑INF:-1 tvg‑name="CCTV‑5" tvg‑logo="",CCTV‑5体育
+http://39.135.119.126:8080/hls/cctv5.m3u8
+#EXT‑INF:-1 tvg‑name="CCTV‑6" tvg‑logo="",CCTV‑6电影
+http://39.135.119.126:8080/hls/cctv6.m3u8
+#EXT‑INF:-1 tvg‑name="CCTV‑8" tvg‑logo="",CCTV‑8电视剧
+http://39.135.119.126:8080/hls/cctv8.m3u8
+#EXT‑INF:-1 tvg‑name="湖南卫视" tvg‑logo="",湖南卫视
+http://39.135.119.126:8080/hls/hunan.m3u8
+#EXT‑INF:-1 tvg‑name="浙江卫视" tvg‑logo="",浙江卫视
+http://39.135.119.126:8080/hls/zhejiang.m3u8
+#EXT‑INF:-1 tvg‑name="江苏卫视" tvg‑logo="",江苏卫视
+http://39.135.119.126:8080/hls/jiangsu.m3u8
